@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/ProjectPlanning.md",
+                "file": "Logs/03-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e581eaffa57608f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/ToDo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/ProjectPlanning.md",
+                "file": "General/ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/ProjectPlanning.md",
+                "file": "General/ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/ProjectPlanning.md"
+                "file": "General/ToDo.md"
               }
             }
           }
@@ -146,18 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acdd2e107c4f5809",
+  "active": "e581eaffa57608f7",
   "lastOpenFiles": [
-    "General/ProblemSolving.md",
     "Documents/The Game.md",
     "Documents/Terminology.md",
+    "General/ToDo.md",
+    "Logs/03-04.md",
+    "General/ProblemSolving.md",
+    "General/ProjectPlanning.md",
     "Planning.canvas",
     "Ideas.canvas",
     "Manager/TagBase.md",
     "Manager",
-    "Logs/24-03.md",
     "Logs",
-    "General/ProjectPlanning.md",
     "General",
     "Documents"
   ]
