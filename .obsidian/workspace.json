@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/ToDo.md",
+                "file": "Logs/03-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d4382726743072a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/05-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/ToDo.md",
+                "file": "Logs/05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/ToDo.md",
+                "file": "Logs/05-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/ToDo.md"
+                "file": "Logs/05-04.md"
               }
             }
           }
@@ -159,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e581eaffa57608f7",
+  "active": "1d4382726743072a",
   "lastOpenFiles": [
+    "Logs/03-04.md",
+    "Logs/05-04.md",
+    "General/ToDo.md",
     "Documents/The Game.md",
     "Documents/Terminology.md",
-    "General/ToDo.md",
-    "Logs/03-04.md",
     "General/ProblemSolving.md",
     "General/ProjectPlanning.md",
     "Planning.canvas",
