@@ -42,9 +42,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52dc7fc43fbb75c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Report/Drafts/Draft 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "219bc8589e4ae724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Report/Drafts/Draft 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "101a5365ed23a098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Report/Prompts/DraftGen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdd803ebb62d24b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Report/Prompts/Project Contextualization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "658bd9962bc1c5c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Report/Drafts/Draft 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c77be0cde68619f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Report/Drafts/Draft 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -110,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/05-04.md",
+                "file": "Project Report/Drafts/Draft 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/05-04.md",
+                "file": "Project Report/Drafts/Draft 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/05-04.md"
+                "file": "Project Report/Drafts/Draft 4.md"
               }
             }
           }
@@ -171,13 +243,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d4382726743072a",
+  "active": "c77be0cde68619f4",
   "lastOpenFiles": [
-    "Logs/03-04.md",
+    "Project Report/Drafts/Draft 3.md",
+    "Project Report/Drafts/Draft 4.md",
+    "Project Report/Prompts/Project Contextualization.md",
+    "Project Report/Prompts/DraftGen.md",
+    "Project Report/Drafts/Draft 2.md",
+    "Project Report/Drafts/Draft 1.md",
+    "Documents/Terminology.md",
+    "Project Report/Prompts",
+    "Project Report/Drafts",
+    "Project Report",
     "Logs/05-04.md",
+    "Logs/03-04.md",
     "General/ToDo.md",
     "Documents/The Game.md",
-    "Documents/Terminology.md",
     "General/ProblemSolving.md",
     "General/ProjectPlanning.md",
     "Planning.canvas",
